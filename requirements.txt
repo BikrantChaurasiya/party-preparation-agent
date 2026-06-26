@@ -1,1 +1,5 @@
-
+smolagents
+ddgs
+gradio
+openai
+numpy
